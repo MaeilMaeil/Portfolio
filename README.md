@@ -8,7 +8,7 @@ I am a third-year student at Cebu Technological University, pursuing a Bachelor 
 
 - 🔭 I’m currently studying as a Bachelor of Science in Graphics and Design.
 - 🌱 I’m currently learning deep coding and advanced SolidWorks.
-- 📫 How to reach me: mrollaniii@mail.com, +63915018911.
+- 📫 How to reach me: mrollaniii@gmail.com, +63915018911.
 - 😄 Pronouns: They/Them.
 
 ## 🛠️ Languages and Tools
