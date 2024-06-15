@@ -1,25 +1,30 @@
-👋 Welcome to My GitHub Portfolio!
-Hello! I'm Melchor Rollan III, a passionate graphic designer with a keen interest in web development, machine learning, open-source projects. Here, you'll find a collection of my projects, collaborations, and contributions that showcase my skills and dedication to continuous learning and improvement.
+# 👋 Welcome to My GitHub Portfolio!
 
-🚀 About Me
-I am a Cebu Technological University Third Year student taking the course of Bachelor of Science in Graphics and Design, and I specialize in AutoCad SOlidworks and Html/Css Coding. My journey in this journey is quite narrow, and since i have many challenges to overcome.
+Hello! I'm Melchor Rollan III, a passionate graphic designer with a keen interest in web development, machine learning, and open-source projects. Here, you'll find a collection of my projects, collaborations, and contributions that showcase my skills and dedication to continuous learning and improvement.
 
-🔭 I’m currently studying as a Bachelor of Science in Graphic and Design.
-🌱 I’m currently learning deep coding and advance solidworks.
-📫 How to reach me: mrollaniii@mail.com, 63915018911.
-😄 Pronouns: They/Them.
-🛠️ Languages and Tools
+## 🚀 About Me
+
+I am a third-year student at Cebu Technological University, pursuing a Bachelor of Science in Graphics and Design. I specialize in AutoCAD, SolidWorks, and HTML/CSS coding. My journey in this field has been challenging yet rewarding, with many obstacles to overcome.
+
+- 🔭 I’m currently studying as a Bachelor of Science in Graphics and Design.
+- 🌱 I’m currently learning deep coding and advanced SolidWorks.
+- 📫 How to reach me: mrollaniii@mail.com, +63915018911.
+- 😄 Pronouns: They/Them.
+
+## 🛠️ Languages and Tools
+
 Here are some of the languages and tools I frequently use:
 
-[List of programming languages, e.g., JavaScript, Python, Java]
-[List of frameworks/libraries, e.g., React, Node.js, Django]
-[Other tools and platforms, e.g., Git, Docker, AWS]
-📈 GitHub Stats
+- **Languages:** HTML, CSS, JavaScript
+- **Frameworks/Libraries:** Bootstrap, React
+- **Tools/Platforms:** AutoCAD, SolidWorks, Git
 
-📊 Top Languages
 
-🔗 Connect with Me
-LinkedIn
-Twitter
-Personal Website/Blog
+
+## 🔗 Connect with Me
+
+- Academic Email (melchoriii.rollan@ctu.edu.ph)
+- [Twitter]([https://twitter.com/yourusername](https://x.com/alpha_rollan))
+- Facebook (https://www.facebook.com/profile.php?id=100028879249019https://yourwebsite.com)
+
 Feel free to customize this template to better fit your personality and the specifics of your work. Add or remove sections as needed to best represent you and your work. Happy coding! 🚀
