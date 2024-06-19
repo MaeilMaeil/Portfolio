@@ -24,7 +24,7 @@ Here are some of the languages and tools I frequently use:
 ## 🔗 Connect with Me
 
 - Academic Email (melchoriii.rollan@ctu.edu.ph)
-- [Twitter]([https://twitter.com/yourusername](https://x.com/alpha_rollan))
+- [Twitter]([https://twitter.com/yourusername](https://x.com/alpha_rollan
 - Facebook (https://www.facebook.com/profile.php?id=100028879249019https://yourwebsite.com)
 
 Feel free to customize this template to better fit your personality and the specifics of your work. Add or remove sections as needed to best represent you and your work. Happy coding! 🚀
